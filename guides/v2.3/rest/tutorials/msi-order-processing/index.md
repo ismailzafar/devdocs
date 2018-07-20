@@ -19,7 +19,7 @@ functional_areas:
 
 This tutorial builds upon the workflow described in the [Order Processing with REST APIs tutorial]({{ site.baseurl }}/get-started/order-tutorial/order-intro.html). The Order Processing with MSI tutorial contains additional steps that show how to create stocks and sources and assign products to a non-default source. Also, the endpoint for shipping an order differs for MSI.
 
-This **5-step tutorial** generally takes **45 minutes**.
+This **12-step tutorial** generally takes **1 hour**.
 
 ### Complete these prerequisites
 

@@ -43,5 +43,6 @@ To assign a source to a stock, you must specify a `source_code`, `stock_id`, and
 Magento returns empty array.
 []
 
-
 ## Verify this step
+
+In Admin, click **Stores** > **Manage Stocks**.  Then click **Edit** to the right of Stock 2. The **Assign Sources** section contains the linked source.

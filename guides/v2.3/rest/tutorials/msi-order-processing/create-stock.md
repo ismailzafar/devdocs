@@ -14,7 +14,7 @@ functional_areas:
   - Integration
 ---
 
-The stock.name attribute is required.
+The `name` attribute is required.
 
 **Endpoint**
 
@@ -37,6 +37,8 @@ Authorization: Bearer <admin_token>
 
 **Response**
 
-Magento returns the stock_id, which is an integer: 2
+Magento returns the `stock_id`, which is an integer: 2
 
 ## Verify this step
+
+In Admin, click **Stores** > **Manage Stocks**.  The new stock is displayed in the Stock grid. 
